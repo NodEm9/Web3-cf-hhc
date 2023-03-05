@@ -29,7 +29,5 @@
     "solidity-coverage": "^0.8.0",
     "typechain": "^8.1.0"
   },
-  "dependencies": {
-    "remove": "^0.1.5"
-  }
+  "dependencies": {}
 }
