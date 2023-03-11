@@ -9,4 +9,4 @@ task("block-number", "Prints the current block number").setAction(
     }
 )
 
-module.exports ={}
+module.exports = {}
